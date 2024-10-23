@@ -4,4 +4,3 @@ Creado por ED
 #Raúl 22/10/2024
 Mi primera chamba
 vaaa
-dale
